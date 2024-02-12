@@ -24,8 +24,8 @@ releases:
     support: 2023-12-31
     eol: 2025-06-30
     extendedSupport: 2026-11-30
-    latest: "7.4.14"
-    latestReleaseDate: 2023-12-12
+    latest: "7.4.15"
+    latestReleaseDate: 2024-02-06
 
 -   releaseCycle: "6"
     releaseDate: 2012-06-01
